@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rawn Muniz",
+        "cpf": "00000013135",
+        "email": "queinfernopqp@hotmail.com",
+        "whatsapp": "13999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "complement": "Apto 147",
+            "neighborhood": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Mar Abreu Kuster",
+        "cpf": "00X000131AA",
+        "email": "maymilfforever@hotmail.com",
+        "whatsapp": "13999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "complement": "Apto 147",
+            "neighborhood": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Papito Fernando",
+        "cpf": "00000013135",
+        "email": "papity.com.br",
+        "whatsapp": "13999999999",
+        "address": {
+            "cep": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "complement": "Apto 147",
+            "neighborhood": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
